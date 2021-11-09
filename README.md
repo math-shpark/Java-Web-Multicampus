@@ -6,3 +6,4 @@
 4. Understanding web applications
 5. Understanding servlets
 6. Servlet Basics
+6. Servlet Business Logic

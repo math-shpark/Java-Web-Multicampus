@@ -7,3 +7,4 @@
 5. Understanding servlets
 6. Servlet Basics
 6. Servlet Business Logic
+6. Servlet API

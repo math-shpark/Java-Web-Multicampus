@@ -7,3 +7,5 @@
 6. Servlet Basics
 6. Servlet Business Logic
 6. Servlet API
+6. Definition of JSP
+6. JSP script elements

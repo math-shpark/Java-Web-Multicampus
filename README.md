@@ -9,3 +9,4 @@
 6. Servlet API
 6. Definition of JSP
 6. JSP script elements
+6. Action Tag

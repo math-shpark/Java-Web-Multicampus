@@ -10,3 +10,4 @@
 6. Definition of JSP
 6. JSP script elements
 6. Action Tag
+6. EL & JSTL

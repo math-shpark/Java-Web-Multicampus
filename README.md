@@ -23,3 +23,17 @@
 ### 3.3 Container
 
 ### 3.4 Web Application with Eclipse
+
+## 4. Understanding Servlet
+
+### 4.1 Definition of Servlet
+
+### 4.2 Structure of Servlet API
+
+### 4.3 Servlet Lifecyle
+
+### 4.4 FirstServlet
+
+### 4.5 Servlet Operation Process
+
+### 4.6 Servlet Mapping with Annotation

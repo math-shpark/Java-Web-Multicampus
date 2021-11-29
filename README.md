@@ -37,3 +37,22 @@
 ### 4.5 Servlet Operation Process
 
 ### 4.6 Servlet Mapping with Annotation
+
+## 5. Servlet Basic
+
+### 5.1 Basic Function of Servlet
+
+### 5.2 `<form>` Tag
+
+### 5.3 HttpServletRequest
+
+### 5.4 HttpServletResponse
+
+### 5.5 Get & Post
+
+### 5.6 `doHandle(request, response)`
+
+### 5.7 HttpServletRequest with Javascript
+
+### 5.8 Exercise
+

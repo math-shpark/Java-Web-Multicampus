@@ -56,3 +56,33 @@
 
 ### 5.8 Exercise
 
+## 6. Servlet Business Logic
+
+### 6.1 Process of Servlet Business Logic
+
+### 6.2 Database Connection of Servlet
+
+### 6.3 Database Connection via DataSource
+
+### 6.4 - 6.5 Exercises of Servlet(Insert, Delete)
+
+## 7. Servlet API
+
+### 7.1 Servlet Forwarding
+
+### 7.2 Methods of Servlet Forwarding
+
+### 7.3 Forwarding via Dispatch
+
+### 7.4 Binding
+
+### 7.5 ServletContext and ServletConfig
+
+### 7.6 Load-on-startup
+
+## 8. Definition of JSP
+
+### 8.1 About JSP
+
+### 8.2 Process of JSP
+
